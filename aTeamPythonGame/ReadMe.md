@@ -1,8 +1,13 @@
+# WELCOME TO THE A-TEAM GAME!
+
+![Screen Shot 2022-03-23 at 4 48 15 PM (2)](https://user-images.githubusercontent.com/87733614/159801761-dddaa690-fdf9-4744-a3cd-c859c9c34313.png)
+
 # How to start the program:
 
-Download and install python3  
-Use following link: https://www.python.org/downloads/
-Clone this repository into your terminal.  
+First, you will need to download and install python3.  
+Use the following link: https://www.python.org/downloads/ for Macs or https://www.python.org/downloads/windows/ for Windows
+Clone this repository onto your computer.  To accomplish this, paste the following text into your terminal and press enter:
+
 Make sure whichever file you saved the file in is where you attempt to run the file in your termial.
 Open your terminal and play!
 
@@ -14,3 +19,6 @@ Welcome to The A-Team game! This game models itself after the hit television sho
 
 Please click the following link:
 https://dev.to/jareichert/i-pity-the-fool-who-doesnt-use-python-27if
+
+
+![Screen Shot 2022-03-23 at 5 39 18 PM (2)](https://user-images.githubusercontent.com/87733614/159808314-956d3a9d-8f21-44c7-9cb7-04cf436c6da1.png)
