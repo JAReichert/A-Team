@@ -9,7 +9,8 @@
 -Use the following link: https://www.python.org/downloads/ for Macs or https://www.python.org/downloads/windows/ for Windows
 
 -Clone this repository onto your computer.  To accomplish this, paste the following text into your terminal and press enter:
-git clone git clone https://github.com/JAReichert/A-Team.git
+
+git clone https://github.com/JAReichert/A-Team.git
 
 -In the terminal, make sure you "cd" into the directory that contains the A-Team.py file
 
